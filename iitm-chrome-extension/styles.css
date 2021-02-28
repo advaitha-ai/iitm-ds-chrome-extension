@@ -1,0 +1,45 @@
+header {
+    background-color: black !important;
+    color: white !important;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+div.units__items-title, div.units__subitems-title, .modules__content-head-title {
+    color: white;
+}
+
+div.units__items-arrow {
+    color: white;
+}
+
+.units__subitems-text.opened {
+    background: transparent !important;;
+}
+
+.modules__content-head-title {
+    color: white !important;
+}
+
+.assignment {
+    background-color: black !important;
+}
+
+.gcb-submit-only-once {
+    color: white;
+}
+
+.gcb-assessment-body {
+    color: white;
+}
+
+.gcb-question-row {
+    background-color: black !important;
+}
+
+.assignment__items-title  {
+    color: white;
+}
