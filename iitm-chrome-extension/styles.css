@@ -43,3 +43,18 @@ div.units__items-arrow {
 .assignment__items-title  {
     color: white;
 }
+
+.gcb-assessment-body b {
+    color: white !important;
+}
+
+.button-scribble {
+    color: white;
+    padding: 4px;
+    border: 2px white;
+    border-style: groove;
+}
+
+.width-50 {
+    max-width: 50% !important;
+}
